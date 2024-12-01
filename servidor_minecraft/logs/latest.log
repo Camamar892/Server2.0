@@ -790,3 +790,36 @@
 [01Dec2024 03:47:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
 [01Dec2024 03:48:28.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
 [01Dec2024 03:48:28.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:49:41.876] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:49:43.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:53296] logged in with entity id 28274454 at (7003.699999988079, -46.63878166312099, -1034.2856731677266)
+[01Dec2024 03:49:43.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:50:13.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:50:13.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:51:04.894] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:51:06.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:33632] logged in with entity id 28565442 at (7003.0325166582725, -45.0, -1031.5865780532008)
+[01Dec2024 03:51:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:51:36.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:51:36.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:52:25.836] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ad7b235[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:48560) lost connection: Timed out
+[01Dec2024 03:52:30.936] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f1cbbf5[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:46180) lost connection: Timed out
+[01Dec2024 03:52:38.035] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9db19d7[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:46192) lost connection: Timed out
+[01Dec2024 03:52:47.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3eb6f558[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:47052) lost connection: Timed out
+[01Dec2024 03:52:56.074] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:52:58.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:50204] logged in with entity id 28567509 at (7000.756475481886, -51.0, -1034.7700621810986)
+[01Dec2024 03:52:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:53:28.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:53:28.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:54:09.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33c8375e[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:59706) lost connection: Timed out
+[01Dec2024 03:54:25.934] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71e62135[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:59480) lost connection: Timed out
+[01Dec2024 03:55:02.885] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1afc9bf6[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:44846) lost connection: Timed out
+[01Dec2024 03:55:09.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Dec2024 03:55:09.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Dec2024 03:55:09.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Dec2024 03:55:09.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Dec2024 03:55:09.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Dec2024 03:55:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Dec2024 03:55:09.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Dec2024 03:55:09.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Dec2024 03:55:09.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Dec2024 03:55:09.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Dec2024 03:55:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
