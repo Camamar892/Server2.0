@@ -709,3 +709,11 @@
 [01Dec2024 03:14:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
 [01Dec2024 03:14:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
 [01Dec2024 03:14:49.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[01Dec2024 03:25:13.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:music_disc.cat to Calamar892]
+[01Dec2024 03:25:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Played sound minecraft:music_disc.cat to Calamar892]
+[01Dec2024 03:25:30.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Stopped all sounds]
+[01Dec2024 03:28:19.312] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:28:21.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: You logged in from another location
+[01Dec2024 03:28:21.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:28:21.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:41612] logged in with entity id 21928921 at (7004.549483250231, -51.0, -1055.543382227691)
+[01Dec2024 03:28:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
