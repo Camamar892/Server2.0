@@ -748,3 +748,45 @@
 [01Dec2024 03:37:49.399] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:35782] logged in with entity id 25538362 at (6997.454410292175, -49.96187731986003, -1056.7363646776469)
 [01Dec2024 03:37:49.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
 [01Dec2024 03:38:23.743] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:38:31.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: You logged in from another location
+[01Dec2024 03:38:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:38:31.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:60200] logged in with entity id 25882349 at (6997.324118145107, -51.0, -1057.0317595578917)
+[01Dec2024 03:38:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:38:52.386] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:38:57.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: You logged in from another location
+[01Dec2024 03:38:57.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:38:57.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:54694] logged in with entity id 26085694 at (7000.741756644703, -51.0, -1050.7717583545495)
+[01Dec2024 03:38:57.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:39:27.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:39:27.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:40:25.240] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1df3143e[id=<null>,name=Calamar892,properties={},legacy=false] (/[::1]:35548) lost connection: Timed out
+[01Dec2024 03:40:30.450] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:40:34.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:42858] logged in with entity id 26329424 at (7000.741756644703, -51.0, -1050.7717583545495)
+[01Dec2024 03:40:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:41:19.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:41:19.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:41:21.798] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:41:24.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:53104] logged in with entity id 26685869 at (6999.337261009917, -51.0, -1058.0717985642166)
+[01Dec2024 03:41:24.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:42:09.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:42:09.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:42:51.607] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:42:53.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:58354] logged in with entity id 27057721 at (6999.724437882003, -48.13140143858811, -1055.4038379768072)
+[01Dec2024 03:42:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:43:23.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:43:23.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:44:26.422] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:44:28.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:54208] logged in with entity id 27326272 at (6998.968415268388, -46.91098051494679, -1055.300000011921)
+[01Dec2024 03:44:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:44:58.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:44:58.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:45:38.167] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:45:45.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:38062] logged in with entity id 27618179 at (6997.2528917706595, -49.14056526075991, -1034.3563147479024)
+[01Dec2024 03:45:45.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:46:19.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Disconnected
+[01Dec2024 03:46:19.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
+[01Dec2024 03:47:54.705] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Calamar892 is 5827db56-9739-433c-8e20-1d05ae775d53
+[01Dec2024 03:47:58.400] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:56842] logged in with entity id 27965713 at (6998.855673189437, -45.09239603875718, -1044.390706142651)
+[01Dec2024 03:47:58.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
+[01Dec2024 03:48:28.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 lost connection: Timed out
+[01Dec2024 03:48:28.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 left the game
