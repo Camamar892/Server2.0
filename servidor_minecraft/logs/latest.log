@@ -679,3 +679,5 @@
 [01Dec2024 02:15:08.519] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:primordial_caves took 6773 ms
 [01Dec2024 02:15:08.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6736ms or 134 ticks behind
 [01Dec2024 02:15:08.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Calamar892 moved too quickly! 5.5803837219464185,6.041313652545604,-5.747610539072866
+[01Dec2024 02:25:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[01Dec2024 02:26:05.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
