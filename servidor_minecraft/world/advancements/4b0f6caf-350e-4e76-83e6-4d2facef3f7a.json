@@ -1,0 +1,166 @@
+{
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2024-11-02 21:11:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2024-11-02 21:11:54 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-02 21:11:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-11-02 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-11-04 22:04:21 +0000",
+      "minecraft:birch_forest": "2024-11-04 21:51:11 +0000",
+      "minecraft:bamboo_jungle": "2024-11-04 22:00:08 +0000",
+      "minecraft:wooded_badlands": "2024-11-04 22:09:48 +0000",
+      "minecraft:beach": "2024-11-04 21:52:19 +0000",
+      "minecraft:dark_forest": "2024-11-04 21:51:26 +0000",
+      "minecraft:sparse_jungle": "2024-11-04 21:56:59 +0000",
+      "minecraft:river": "2024-11-04 21:23:51 +0000",
+      "minecraft:desert": "2024-11-04 22:09:26 +0000",
+      "minecraft:jungle": "2024-11-04 21:53:03 +0000",
+      "minecraft:flower_forest": "2024-11-02 21:15:23 +0000",
+      "minecraft:plains": "2024-11-02 21:11:55 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-02 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-02 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-02 21:12:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:atacama_outback": "2024-11-04 22:10:29 +0000",
+      "biomeswevegone:windswept_desert": "2024-11-04 22:15:35 +0000",
+      "biomeswevegone:forgotten_forest": "2024-11-04 21:25:41 +0000",
+      "biomeswevegone:prairie": "2024-11-04 21:23:53 +0000",
+      "biomeswevegone:aspen_boreal": "2024-11-04 21:50:42 +0000",
+      "biomeswevegone:dead_sea": "2024-11-04 22:16:04 +0000",
+      "biomeswevegone:allium_shrubland": "2024-11-02 21:15:07 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:allium_shrubland": "2024-11-02 21:15:07 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:assassin_class": {
+    "criteria": {
+      "assassin_class_0": "2024-11-02 21:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-02 21:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-02 21:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-04 21:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-04 21:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-04 21:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-11-04 21:32:32 +0000",
+      "glow_berries": "2024-11-04 21:27:43 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-11-04 21:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-11-04 22:37:22 +0000",
+      "minecraft:zombie": "2024-11-04 22:09:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-04 22:09:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-11-04 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
+    "criteria": {
+      "inside_red_quicksand": "2024-11-04 22:12:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-11-04 23:02:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-11-04 23:02:21 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

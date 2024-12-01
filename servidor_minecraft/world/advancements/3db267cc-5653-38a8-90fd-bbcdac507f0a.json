@@ -1,0 +1,27 @@
+{
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2024-11-27 23:10:33 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-27 23:10:33 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2024-11-27 23:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-11-27 23:10:35 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
