@@ -687,3 +687,10 @@
 [01Dec2024 02:31:02.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Calamar892[/[::1]:54260] logged in with entity id 5385663 at (6991.738306879635, -50.0, -1038.7807569322251)
 [01Dec2024 02:31:02.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 joined the game
 [01Dec2024 02:37:04.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Calamar892 has made the advancement [Busy Hands]
+[01Dec2024 02:38:02.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Survival Mode]
+[01Dec2024 02:38:03.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[01Dec2024 02:38:05.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[01Dec2024 02:38:08.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[01Dec2024 02:38:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
+[01Dec2024 02:39:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Creative Mode]
+[01Dec2024 02:47:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Calamar892: Set own game mode to Spectator Mode]
